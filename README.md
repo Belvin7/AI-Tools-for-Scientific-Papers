@@ -42,7 +42,7 @@ A curated list of **AI-powered tools** that assist researchers, students, and ac
 -  **Word** & **Web** compatible  
 -  **Free basic access** available  
 
-### ❌ Disadvantages  
+###  Disadvantages  
 -  **Limited free features** — Premium plan needed for full use  
 -  **No source finder** — user must provide/upload papers  
 -  **Limited topic coverage** — not ideal for every field  
@@ -63,7 +63,7 @@ A curated list of **AI-powered tools** that assist researchers, students, and ac
 -  **Browser plugins** — use directly while browsing  
 -  **Free basic version** available  
 
-### ❌ Disadvantages  
+###  Disadvantages  
 -  **Limited free usage** — Premium required for advanced features  
 -  **No writing assistance** — focused on research, not text production  
 -  **Complex interface** — slight learning curve  
