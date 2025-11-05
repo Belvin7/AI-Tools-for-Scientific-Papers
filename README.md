@@ -1,4 +1,5 @@
-# AI Tools for Writing Scientific Papers  
+# AI Tools for Writing Scientific Papers <img src="https://media.tenor.com/_m9BeUagaMkAAAAj/writing-hand-joypixels.gif" alt="Writing Hand" width="50"/>
+
 
 A curated list of **AI-powered tools** that assist researchers, students, and academics in **reading, summarizing, and writing scientific papers**.
 
