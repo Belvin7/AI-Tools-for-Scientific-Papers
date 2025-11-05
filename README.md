@@ -76,8 +76,9 @@ Many articles are accessible, though some remain **behind paywalls**.
 
 ---
 
-##  4. Non-AI Tools (Coming Soon)  
-Useful traditional tools for reference management, formatting, and research organization.
+##  4. Non-AI Tools 
+Useful traditional tools for reference management, formatting, and research organization used already by a lot of peers and highly recommended by them as well:
+
 - Citavi:https://www.ub.ovgu.de/ub/en/Service/Courses++Guided+tours++Consultation/Reference+management+with+Citavi.html→ Relevant Thesis Sections: Related Work (3), Bibliography, Appendices
 
 - Zotero: https://www.zotero.org/→ Relevant Thesis Sections: Related Work (3), Bibliography
@@ -87,20 +88,20 @@ Useful traditional tools for reference management, formatting, and research orga
 
 - TextCite: https://sourceforge.net/projects/textcite/
 → Relevant Thesis Sections:Prerequisites (2), Related Work (3), Appendices
-<img width="2386" height="618" alt="image" src="https://github.com/user-attachments/assets/9fd6283a-3ffb-4fb8-8752-b4d82d212c03" />
+
 
 - SPSS (IBM Statistical Package for the Social Sciences):
  https://www.ibm.com/spss
 →Relevant Thesis Sections: Evaluation (5),Examples (5.1)
-<img width="1299" height="209" alt="image" src="https://github.com/user-attachments/assets/cc166670-147f-47ee-b06b-e4d28d90051a" />
+
 
 - JabRef: https://www.jabref.org/
 → Relevant Thesis Sections: RelatedWork (3),Bibliography
-<img width="1310" height="157" alt="image" src="https://github.com/user-attachments/assets/3860ca85-18e1-42f1-adfe-0ad877991ba9" />
+
 
 - Calibre: https://calibre-ebook.com/
 → Relevant Thesis Sections:Prerequisites (2), Related Work (3)
-<img width="1403" height="157" alt="image" src="https://github.com/user-attachments/assets/07e0f661-6c1f-43ea-aaa0-74d53a745918" />
+
 
 ---
 
