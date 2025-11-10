@@ -105,6 +105,11 @@ Useful traditional tools for reference management, formatting, and research orga
 
 
 ---
+# Perplexity 
+
+- Students can get the pro version for 1 year : https://plex.it/referrals/W3H2U6NH
+
+---
 
 # My personal recommendations for a mix of tools to use for your thesis 
 
